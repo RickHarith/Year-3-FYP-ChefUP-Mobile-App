@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799914861305",
+    "project_id": "fyp-chefup-514a0",
+    "storage_bucket": "fyp-chefup-514a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799914861305:android:3705a729c741a288bf7828",
+        "android_client_info": {
+          "package_name": "com.example.fyp_chefup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOzEBhE2_eTeNK_jJjoQ3fyQyG3UF_2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
